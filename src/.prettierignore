@@ -1,0 +1,5 @@
+# do not run Prettier against JavaScript files
+
+package.json
+package-lock.json
+public

@@ -1,0 +1,24 @@
+{
+  "short_name": "職人BASE",
+  "name": "職人BASE",
+  "description": "職人BASEとは“イベント”を通して、企業（発注者）と職人さんがつながる場を提供するプラットフォームです。豊富な検索項目から気になる案件を探して、発注企業と直接話をしたうえで、自分にあった案件を受注することができます。",
+  "icons": [
+    {
+      "src": "/favicon_io/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon_io/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "../",
+  "id": "../",
+  "display": "standalone",
+  "theme_color": "#2FC6BD",
+  "background_color": "#ffffff"
+}

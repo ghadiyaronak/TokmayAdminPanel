@@ -1,0 +1,19 @@
+.popper-class {
+    z-index: 9999;
+}
+
+.custom {
+    width: 20rem;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 16px;
+    border: 1px solid;
+    background-color: transparent;
+    color: #718096 !important;
+    border-color: #cbd5e0;
+}
+
+.react-datepicker-wrapper {
+    width: max-content;
+}

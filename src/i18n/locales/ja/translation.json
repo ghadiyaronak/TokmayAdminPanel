@@ -1,0 +1,98 @@
+{
+    "there_are_no_records_to_display": "表示するレコードがありません",
+    "rows_per_page": "件数",
+    "home": "ダッシュボード",
+    "master_admin": "マスター管理者",
+
+    "common": {
+        "user": "ユーザー",
+        "profile_update_success": "プロフィールを更新しました",
+        "age": "年齢",
+        "cancel": "キャンセル",
+        "ACTIVE": "アクティブ",
+        "BLOCKED": "ブロック",
+        "delete": "削除",
+        "edit": "編集",
+        "email": "メールアドレス",
+        "search": "検索",
+        "status": "ステータス",
+        "up_to_500_characters": "500文字まで",
+        "(multiple_selection_possible)": "(複数選択可能)",
+        "search_condition": "検索条件",
+        "batch_download": "一括ダウンロード",
+        "manager": "担当者",
+        "return": "戻る",
+        "select_date_range": "データ範囲を選択",
+        "show_data": "データを表示",
+        "filter_data": "ファイルデータ",
+        "export": "エクスポート",
+        "save": "登録する",
+        "cancle": "キャンセル",
+        "name": "名前",
+        "message": "メッセージ",
+        "reset": "リセット",
+        "yes": "はい",
+        "no": "いいえ",
+        "user_status": "ユーザーステータス",
+        "Profession": "職業",
+        "male": "男性",
+        "female": "女性"
+    },
+
+    "status": {
+        "active": "アクティブ",
+        "block": "ブロック",
+        "user": "読取"
+    },
+
+    "login": {
+        "login": "ログイン",
+        "management_screen": "TokMay",
+        "email": "メールアドレス",
+        "password": "パスワード",
+        "forgot_password": "パスワードをお忘れですか",
+        "request_reset": "パスワードをリセットする",
+        "reset_password": "パスワードを再設定する",
+        "confirm_password": "パスワードを認証する",
+        "get_an_email": "リセットリンクが記載されたメールが届きます",
+        "change_password": "パスワード変更",
+        "logout": "ログアウト",
+        "new_password": "新しいパスワード",
+        "edit_profile": "プロフィール編集",
+        "profile": "プロフィール",
+        "password_is_required": "パスワードが必要",
+        "confirm_password_is_required": "パスワードの確認が必要です",
+        "password_must_match": "パスワードが一致している必要があります"
+    },
+
+    "assets": {
+        "assets": "画像",
+        "add_a_photo": "写真を追加",
+        "drag_And_drop": "ここに画像をドラッグまたは、クリックでアップロードする画像を選択",
+        "photo_warning": "これらの写真は JPEG または PNG 形式で、サイズが 15 メガバイト 未満である必要があります.",
+        "image_require": "画像をアップロードする必要があります",
+        "images": "画像",
+        "upload_image": "画像登録",
+        "upload_video": "動画をアップロード",
+        "image": "画像",
+        "uploading": "アップロード中...",
+        "save_photo": "写真を登録する",
+        "add_a_video": "ビデオを追加",
+        "video_warning": "これらの動画は Mp4 形式で、サイズが 30MB 未満である必要があります."
+    },
+
+    "form_errors": {
+        "required_email": "メールアドレスを入力してください",
+        "required_password": "パスワードを入力してください",
+        "invalid_email": "有効なメールアドレスを入力してください",
+        "required_fields": "必須項目",
+        "password_minimum_characters": "パスワードが短すぎます - 6 文字以上にする必要があります",
+        "both_password_needs_to_be_the_same": "パスワードが一致しません",
+        "suspend_message": "ユーザーを停止してもよろしいですか?",
+        "active_message": "このユーザーを有効にしてもよろしいですか?"
+    },
+
+    "user_mgmt": {
+        "user_details": "ユーザー情報"
+    }
+}

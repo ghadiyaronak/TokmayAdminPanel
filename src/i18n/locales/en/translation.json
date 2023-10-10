@@ -1,0 +1,31 @@
+{
+    "common": {
+        "email": "Email"
+    },
+
+    "login": {
+        "email": "Email Address",
+        "password": "Password",
+        "login": "Login",
+        "management_screen": "TokMay",
+        "get_an_email": "You'll get an email with a reset link",
+        "request_reset": "Request Reset",
+        "reset_password": "Reset Password",
+        "confirm_password": "Confirm Password",
+        "profile": "Profile",
+        "logout": "Logout",
+        "change_password": "Change Password",
+        "new_password": "New Password",
+        "edit_profile": "Profile Edit",
+        "forgot_password": "forgot password"
+    },
+
+    "form_errors": {
+        "required_email": "Please enter your email address",
+        "required_password": "Please enter your password",
+        "invalid_email": "Please enter a valid email address",
+        "required_fields": "Required Fields",
+        "password_minimum_characters": "password must be at least 6 characters",
+        "both_password_needs_to_be_the_same": "Both password need to be the same"
+    }
+}
